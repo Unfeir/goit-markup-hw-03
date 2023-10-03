@@ -1,2 +1,2 @@
-Check out my GitHub Pages site: [My GitHub Pages](https://unfeir.github.io/goit-markup-hw-02/index.html)
+Check out my GitHub Pages site: [My GitHub Pages](https://unfeir.github.io/goit-markup-hw-03/)
 
