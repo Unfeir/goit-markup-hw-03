@@ -41,6 +41,7 @@ body {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
+    margin: auto;
 }
 .section{
     padding-top: 94px;
@@ -225,12 +226,13 @@ footer {
   line-height: 1.88;
   letter-spacing: 0.06em;
   text-align: center;
+  border: none;
 }
 
 /* Feautures section */
 
 
-.features > .title {
+.features > .container .title {
     margin-top: 94px;
     margin-bottom: 50px;
     color: var(--title-text-color);
